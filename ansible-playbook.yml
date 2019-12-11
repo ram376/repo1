@@ -1,0 +1,7 @@
+---
+- hosts: all
+  become: yes
+  become_user: true
+  tasks: 
+  - name: echo
+    yum: pkg=httpd state=latest
