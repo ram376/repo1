@@ -4,4 +4,4 @@
   become_user: true
   tasks: 
   - name: echo
-    yum: pkg=httpd state=latest
+    yum: pkg=tomcat state=latest
