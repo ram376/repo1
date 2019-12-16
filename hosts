@@ -1,3 +1,1 @@
 13.127.133.17 ansible_ssh_pass=1234 ansible_ssh_user=ansible
-172.31.41.150 ansible_ssh_pass=1234 ansible_ssh_user=ansible
-172.31.41.72 ansible_ssh_pass=1234 ansible_ssh_user=ansible
